@@ -15,5 +15,5 @@
 2. You just put ->(# . space)
 4. It doesn't even have to be in order (this one is 4.)
   * Sublist have ->(space spave *)
-  1. Ordered sublist have ->(space space 1.)
+    1. Ordered sublist have ->(space space 1.)
 
