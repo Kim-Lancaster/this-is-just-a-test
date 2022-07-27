@@ -6,14 +6,14 @@
 * #H1
 * ##H2
 * ##H3
-..etc...
+  etc...
 
 * *italic* - * astrisks on both sides
 * **bold** - ** double astrisks on both sides
 * ~~strike through~~ - ~~ double tildes on both sides
 1. You want an ordered list?
-2. You just put a number + . + space!
+2. You just put ->(# . space)
 4. It doesn't even have to be in order (this one is 4.)
-..* Sublist have ->(..*)
-..1. Ordered sublist have ->(..1.)
+  * Sublist have ->(space spave *)
+  1. Ordered sublist have ->(space space 1.)
 
