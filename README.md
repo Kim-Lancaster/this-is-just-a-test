@@ -1,7 +1,15 @@
 # this-is-just-a-test
 ## Do not be alarmed
+### This is where I keep my README markdown tips 
 
-* I'm a list item!
-1. I'm a ordered list item - yay me.
+Alt-H1
+======
 
-This is just a test repo I use to put sites up on github pages... don't worry about it
+Alt-H2
+------
+
+#H1
+##H2
+##H3
+etc...
+
